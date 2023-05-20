@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Get the article text and strip all html tags",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ben Adrian Sarmiento <me@bensarmiento.com>",
