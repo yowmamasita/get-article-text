@@ -1,0 +1,14 @@
+{
+  "name": "get-article-text",
+  "version": "1.0.0",
+  "description": "Get the article text and strip all html tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Adrian Sarmiento <me@bensarmiento.com>",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.2.1"
+  }
+}
